@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Netflix_Clone
 I tried to implement the frontend design of the Netflix app for practice my react skills.
 =======
@@ -72,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 4662244 (Initialize project using Create React App)
+(Initialize project using Create React App)
